@@ -1,0 +1,84 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background: #101014;
+  color: #ffffff;
+}
+
+header {
+  padding: 25px 8%;
+  background: #191920;
+  border-bottom: 1px solid #30303a;
+}
+
+header h1 {
+  color: #ff3d5a;
+  font-size: 30px;
+}
+
+header p {
+  color: #aaaaaa;
+  margin-top: 8px;
+}
+
+main {
+  padding: 35px 8%;
+}
+
+.hero {
+  background: linear-gradient(135deg, #38152b, #17172a);
+  padding: 70px 35px;
+  border-radius: 18px;
+  text-align: center;
+}
+
+.hero h2 {
+  font-size: 32px;
+  margin-bottom: 15px;
+}
+
+.hero p {
+  color: #cccccc;
+  margin-bottom: 25px;
+}
+
+button {
+  background: #ff3d5a;
+  color: white;
+  border: none;
+  padding: 13px 28px;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #e52b49;
+}
+
+.dramas {
+  margin-top: 45px;
+  padding: 25px;
+  background: #191920;
+  border-radius: 14px;
+}
+
+.dramas h2 {
+  margin-bottom: 15px;
+}
+
+.dramas p {
+  color: #aaaaaa;
+}
+
+footer {
+  text-align: center;
+  padding: 30px;
+  color: #777777;
+}
