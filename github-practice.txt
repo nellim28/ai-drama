@@ -2,3 +2,6 @@ Hello GitHub!
 
 This is my first GitHub practice.
 I am learning to build an AI Drama website.
+My second GitHub lesson.
+
+I can create branches and edit files!
